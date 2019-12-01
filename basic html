@@ -1,0 +1,52 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>This is the title of the page.</title>
+<body bgcolor="Aliceblue">
+<p><b><i>Biography</b></i></p>
+<p> My name is <u><i><strong>Bishwo thapa magar</strong></u></i>.I am studying <b>Web programming</b></br>at the Kyoto College of Graduates Studies for Informatics</b></p>
+<p>8<sup>2 is 64.The cube of 4 is 64 </sup>.
+<p><s>H<sub>2</sub>O</s> is the chemical formula for water.</p>
+<p>H<sub>2</sub>S<sub>o</sub>4
+<p><abbr title="The Kyoto Collece of Graduates Studies for Informatics">KCGI</abbr></P>
+<address>Kyoto</br>Hyakumanben,Japan</address>
+<p><blockquote>For 50 years, WWF has been protectiong the future of nature. The world's leading conservation organization,WWF works in 100 countries and is supported by 1.2</br>million members in the United States and close to 5 million globally.</blockquote>
+<q>For 50 years, WWF has been protectiong the future of nature. The world's leading conservation organization,WWF works in 100 countries and is supported by 1.2</br>million members in the United States and close to 5 million globally.</q>
+<p>My favourite color is <del>blue</del><ins>red</ins>!</p>
+<ul><li>2 eggs</li>
+<li>1 tbs butter</li>
+<li>2 tbs cream</li></ul>
+<ol><li>Melt butter in a frying pan over a medium heat.</li>
+<li>Gently mix the egges and cream in a bowl. </li>
+<li>Once butter has melted add cream and eggs.</li>
+<li>Using a spatula fold the egges from the edge of the center every 20 seconds (as if you are making a omellete)</list>
+<li>When the eggs are still moist remove from the heat.(it will continue to cook on the plate until served.</list>
+</ol>
+<ul>
+	<li>Business IT programming	
+		<ul>
+				<li>ERP</li>
+				<li>CRM</li>
+				<li>SCM</li>
+				<li>Database</li>
+			</ul>
+	</li>
+	<li> Systtem development program</li>
+	<li>Multimedia Content program</li>
+	<li>Next generation industries program</li>
+	</ul>
+	<dl>
+		<dt>Sashimi</dt>
+		<dd>Sliced raw fish that is seerved with condiments such as shredded </br>daikon radish or ginger root.wasabi and soy sause.</dd>
+		<dt>scamorze</dt>
+		<dd>An italian cheese usually made from whole cow's milk.</dd>
+	</dl>
+	<a href="https://ekantipur.com/">Newspaper</a>
+	<img src ="C:\Users\ACER\Pictures\Screenshots\btm.jpeg.png"/>
+	<img src="C:\Users\ACER\Pictures\Screenshots\btm.jpeg.png"width=200"height="100">
+	<a href="https://bhakunde.com.np/">C:\Users\ACER\Pictures\Screenshots\btm.jpeg.png</a>
+<p>Nature</p><img src ="C:\Users\ACER\Pictures\Screenshots\btm.jpeg.png"/>
+<p>Human</p><img src ="C:\Users\ACER\Pictures\Screenshots\btm.jpeg.png"/>
+<p>Nature</p>
+</html>
+</head>
